@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Ingreso por ventas",
+    "date": "$108,820.47"
+  },
+  {
+    "name": "Costo de los bienes vendidos",
+    "date": "$41,137.05"
+  },
+  {
+    "name": "Utilidad bruta",
+    "date": "$67,683.42"
+  },
+  {
+    "name": "Menos Gastos Operativos",
+    "date": ""
+  },
+  {
+    "name": "Gastos de ventas",
+    "date": "$5,400.00"
+  },
+  {
+    "name": "Gastos generales y administrativos",
+    "date": "$33,012.00"
+  },
+  {
+    "name": "Gastos de arrendamiento",
+    "date": "$18,000.00"
+  },
+  {
+    "name": "Total de gastos operativos",
+    "date": "$56,412.00"
+  },
+  {
+    "name": "Utilidad operativa",
+    "date": "$11,271.42"
+  },
+  {
+    "name": "Menos Gastos Por Impuestos",
+    "date": ""
+  },
+  {
+    "name": "Impuesto sobre la renta (25%)",
+    "date": "$2,817.86"
+  },
+  {
+    "name": "Utilidad neta despues de impuestos",
+    "date": "$8,453.57"
+  }
+]

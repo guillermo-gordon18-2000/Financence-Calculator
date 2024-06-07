@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Prestamo bancario",
+    "date": "6,654.05"
+  },
+  {
+    "name": "Cuentas por pagar",
+    "date": "1,065.00"
+  },
+  {
+    "name": "Pasivos corrientes",
+    "date": "7,719.05"
+  },
+  {
+    "name": "Deuda a largo plazo",
+    "date": "24,909.60"
+  },
+  {
+    "name": "Pasivos Totales",
+    "date": "32,628.65"
+  },
+  {
+    "name": "Patrimonio neto",
+    "date": "11,171.35"
+  }
+]

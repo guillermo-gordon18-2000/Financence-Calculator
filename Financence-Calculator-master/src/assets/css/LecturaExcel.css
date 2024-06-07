@@ -1,0 +1,102 @@
+.categorias{
+    width: 210%;
+    margin-top: 2%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(175px, 3fr));
+    gap: 10px;
+}
+.btnActivo{
+    background-color: #0b68ff;
+    color: white;
+    transition: .5s;
+}
+.btnActivo:hover{
+    background-color: #075ae0;
+    color: white;
+}
+.btnInactivo{
+    background-color: #afcdfc;
+    color: black;
+    transition: .5s;
+}
+.btnInactivo:hover{
+    background-color: #95bdfc;
+}
+.namePage{
+    width: 210%;
+    background-color: #0b68ff;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 2% 0;
+    margin-top: 2%;
+    border-radius: 10px 10px 0 0;
+}
+.pTable{
+    position: static;
+    width: 210%;
+    text-align: center;
+    padding: 2% 0;
+}
+.pTable thead tr th{
+    color: white;
+    font-weight: bold;
+    background-color: #1d6ef1;
+    border: 1px solid black;
+    padding: 1% 0;
+}
+.pTable tbody tr td{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    transition: .5s;
+}
+.pTable tbody tr:hover td{
+    background-color: #cde0ff;
+}
+.filaPar{
+    background-color: #95bdfc;
+}
+.filaImpar{
+    background-color: #b1cffe;
+}
+
+/* Cálculo de Fórmulas */
+.calculoDeFormulas{
+    margin-top: 3%;
+    width: 210%;
+    border: 1px solid #bccbe3;
+    border-radius: 20px;
+    background-color: #e5eefe;
+    padding: 5% 3%;
+}
+.calculoDeFormulas div{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.calculoDeFormulas div h3{
+    width: 105%;
+}
+.calculoDeFormulas h1{
+    padding-bottom: 3%;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.calculoDeFormulas :nth-child(2) h3{
+    border-bottom: 1px solid #959eba;
+    color: #959eba;
+    padding-bottom: 1% ;
+    margin-bottom: 1%;
+    font-weight: 800;
+}
+.calculoDeFormulas :nth-child(3){
+    display: block;
+}
+.calculoDeFormulas :nth-child(3) div{
+    display: flex;
+    width: 100%;
+    padding: 1% 0;
+}
+.calculoDeFormulas :nth-child(3) div p{
+    width: 100%;
+}
